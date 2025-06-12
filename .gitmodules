@@ -1,0 +1,15 @@
+[submodule "graphiti"]
+	path = graphiti
+	url = ./graphiti
+[submodule "HippoRAG"]
+	path = HippoRAG
+	url = ./HippoRAG
+[submodule "locomo"]
+	path = locomo
+	url = ./locomo
+[submodule "LongMemEval"]
+	path = LongMemEval
+	url = ./LongMemEval
+[submodule "mem0"]
+	path = mem0
+	url = ./mem0
